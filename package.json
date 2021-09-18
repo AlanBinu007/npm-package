@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com/@AlanBinu007"
+},
   "dependencies": {
     "firebase": "^9.0.1"
   },
